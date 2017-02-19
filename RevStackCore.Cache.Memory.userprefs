@@ -1,7 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RevStackCore.Cache.Memory/RevStackCore.Cache.Memory.csproj">
     <Files>
-      <File FileName="README.md" Line="3" Column="1" />
+      <File FileName="RevStackCore.Cache.Memory/RevStackCore.Cache.Memory.csproj" Line="8" Column="90" />
+      <File FileName="package.json" Line="4" Column="91" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
