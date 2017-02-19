@@ -1,0 +1,2 @@
+# RevStackCore.Cache.Memory
+
