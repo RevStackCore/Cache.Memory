@@ -67,7 +67,7 @@ namespace RevStackCore.Cache.Memory
 				Id = key,
 				Collection = collection
 			};
-			_context.Set(key, collection, timeSpan);
+            _context.Set(key, entityCollection, timeSpan);
 		}
 	}
 }
