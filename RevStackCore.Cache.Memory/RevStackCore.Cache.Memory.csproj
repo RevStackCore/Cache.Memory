@@ -2,12 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.5</TargetFramework>
-	<PackageId>RevStackCore.Cache.Memory</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+	  <PackageId>RevStackCore.Cache.Memory</PackageId>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>IMemoryCache implementation of the RevStackCore generic cache repository</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Net Standard 1.5 release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/RevStackCore/Cache.Memory.git</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/RevStackCore/Cache.Memory/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://s3.amazonaws.com/revstack/icons/revstackcore-64x64.png</PackageIconUrl>
     <Copyright>Copyright 2017</Copyright>
     <PackageTags>RevStackCore Cache Memory</PackageTags>		
   </PropertyGroup>
