@@ -57,7 +57,12 @@ namespace RevStackCore.Cache.Memory
 
 		public void SetCollection<TEntity>(IEnumerable<TEntity> collection, string key)
 		{
-			Set(collection, key, _timeSpan);
+			var entityCollection = new EntityCollection<TEntity>
+			{
+				Id = key,
+				Collection = collection
+			};
+			_context.Set(key, entityCollection, _timeSpan);
 		}
 
 		public void SetCollection<TEntity>(IEnumerable<TEntity> collection, string key, TimeSpan timeSpan)

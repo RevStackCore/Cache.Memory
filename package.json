@@ -1,6 +1,6 @@
 {
   "name": "RevStackCore.Cache.Memory",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "IMemoryCache implementation of the RevStackCore generic cache repository",
   "main": "RevStackCore.Cache.Memory.sln",
   "scripts": {

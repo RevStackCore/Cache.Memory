@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.5</TargetFramework>
 	  <PackageId>RevStackCore.Cache.Memory</PackageId>
-    <PackageVersion>1.0.2</PackageVersion>
+    <PackageVersion>1.0.3</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>IMemoryCache implementation of the RevStackCore generic cache repository</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
